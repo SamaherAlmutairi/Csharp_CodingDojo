@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Container
+@* @model Movie *@
+<div class="text-center">
+    <h1 class="display-4">Welcome to CRUDelicious</h1>
+    <h6>Check out some recent Dishes: <br>  
+ </h6>
+    @* VIEWBAG METHOD *@
+
+        @{
+            foreach (var dish in ViewBag.AllDishes)
+            {
+                    <h6><a asp-action="Info" asp-route-id="@dish.DishId" asp-controller="Home">@dish.Name</a> By @dish.Chef</h6>
+            }
+        }
+        <hr>
+<h5><a asp-action="New"  asp-controller="Home">Add new dish</a></h5>
+</div>

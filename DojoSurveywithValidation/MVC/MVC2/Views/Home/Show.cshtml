@@ -1,0 +1,24 @@
+  @model MVC2.Models.Survey
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Page Title</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+  <script src='main.js'></script>
+</head>
+<body>
+ <div >
+    <h3>Submitted Info:</h3>
+    <p><strong>Name: </strong>@Model.Name</p>
+    <p><strong>Location: </strong>@Model.Locations</p>
+    <p><strong>Language: </strong>@Model.Languages</p>
+   
+        <p><strong>Comment: </strong>@Model.Comments</p>
+  
+    <a href="/">Go back</a>
+</div>
+</body>
+</html>

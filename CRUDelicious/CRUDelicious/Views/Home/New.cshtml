@@ -1,0 +1,11 @@
+@model Container
+   <div>
+    <h3>Create new Dishes:</h3>
+    <partial name="_NewDish" for="@Model.Dish"></partial>
+
+</div>
+<div>
+        <br><br>
+        <a asp-action="Index" asp-controller="Home">Back Home</a>
+
+</div>

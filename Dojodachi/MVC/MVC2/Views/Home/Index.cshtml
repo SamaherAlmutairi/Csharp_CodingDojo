@@ -1,0 +1,54 @@
+
+    @{
+    string message = (string)TempData["message"];
+    string[] gameTypes = new string[] { "Feed", "Play", "Work", "Sleep" };
+    bool restart = false;
+    if(Model.DidLose)
+    {
+        @* message = "You Dojodachi has passed away"; *@
+        restart = true;
+    }
+    else if(Model.DidWin)
+    {
+        @* message = " You Won!"; *@
+        restart = true;
+
+    }
+}
+@model Dachi
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='/MVC2/wwwroot/css/site.css' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+
+<h2>Fullness: @Model.Fullness | Happiness: @Model.Happiness | Meals: @Model.Meals | Energy: @Model.Energy</h2>
+<div style="width: 100%">
+    <p>@message</p>
+</div>
+@{
+    if(!restart)
+    {
+        foreach(string gt in gameTypes)
+        {
+            <a asp-action="Play" asp-controller="Home" asp-route-gameType="@gt.ToLower()"><button>@gt</button></a>
+        }
+    }
+    else
+    {
+        <a asp-action="Restart" asp-controller="Home">Restart?</a>
+    }
+}
+@* {
+   <span><a href="Play" class="btn btn-primary">Play</a></span>
+                <span><a href="Work" class="btn btn-primary">Work</a></span>
+                <span><a href="Sleep" class="btn btn-primary">Sleep</a></span>
+            } *@
+</body>
+</html>

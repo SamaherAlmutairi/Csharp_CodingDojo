@@ -1,0 +1,24 @@
+@{
+    ViewData["Title"] = "Home Page";
+    }
+    @model LR_.Models.LoginUser
+    <nav >
+        <h1 >Login</h1>
+        <h4> <a style="color: blue;" href="/Register">Need to register</a></h4>
+    </nav>
+    <div >
+        <form asp-action="Login" asp-controller="Home" method='post' id="login" class='big_form'>
+            <div >
+                <h1>Login</h1>
+                <span asp-validation-for="Email"></span>
+                <label asp-for="Email"></label>
+                <input type="text" asp-for="Email"  >
+            </div>
+            <div >
+                <span asp-validation-for="Password"></span>
+                <label asp-for="Password"></label>
+                <input type="password" asp-for="Password"  >
+            </div>
+            <button type="submit" >Submit</button>
+        </form>
+    </div>

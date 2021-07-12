@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDX7kUbhqVYFiJSirWrZFhM424ABSwl9mItyVXS6Kd8J2Pnk05NK2Nm+koKiBrDIetQM5MoBrNllFXoIlQU1aA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\MVC\\MVC2\\MVC2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

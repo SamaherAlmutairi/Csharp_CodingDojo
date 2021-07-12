@@ -1,0 +1,31 @@
+@model Dish
+<div class="row">
+    <div >
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div >
+        <label asp-for="Chef"></label>
+        <input asp-for="Chef" />
+        <span asp-validation-for="Chef"></span>
+    </div>
+    <div >
+        <label asp-for="Description"></label>
+        <input asp-for="Description" />
+        <span asp-validation-for="Description"></span>
+    </div>
+    <div>
+        <label asp-for="Calories"></label>
+        <input asp-for="Calories" />
+        <span asp-validation-for="Calories"></span>
+        <label asp-for="Tastiness"></label>
+        <select asp-for="Tastiness">
+            @for (int i = 1; i <= 5; i++)
+            {
+                <option value="@i">@i</option>
+            }
+        </select>
+    </div>
+</div>
+<button type="submit">Submit</button>

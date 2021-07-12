@@ -1,0 +1,29 @@
+@* ViewBag.User *@
+@model Wedding
+<p>Hello @ViewBag.User.FirstName! <a asp-action="Dashboard" asp-controller="Wedding">Dashboard</a> - <a
+        asp-action="LogOut" asp-controller="Home">LogOut</a></p>
+
+<h1>Post A Wedding</h1>
+<form asp-action="PostWedding" asp-controller="Wedding" method="POST">
+    <div>
+        <label asp-for="Onew"></label>
+        <input asp-for="Onew" /><br />
+        <span class="text-danger" asp-validation-for="Onew"></span>
+    </div>
+    <div>
+        <label asp-for="Twow"></label>
+        <input asp-for="Twow" /><br />
+        <span class="text-danger" asp-validation-for="Twow"></span>
+    </div>
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" /><br />
+        <span class="text-danger" asp-validation-for="Address"></span>
+    </div>
+    <div>
+        <label asp-for="WDate"></label>
+        <input asp-for="WDate" /><br />
+        <span class="text-danger" asp-validation-for="WDate"></span>
+    </div>
+    <button type="submit">Submit</button>
+</form>

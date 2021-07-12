@@ -1,0 +1,20 @@
+@model Dish
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Dishes</title>
+</head>
+
+<body>
+    <h3>Edit @Model.Name</h3>
+    <form asp-action="Update" asp-controller="Home" asp-route-id="@Model.DishId" method="POST">
+        @* <form action="/process" method="POST"> *@
+        <partial name="_PartialForm" for="@Model"></partial>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.exe
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.deps.json
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.runtimeconfig.json
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.dll
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\ref\Iron Ninja.dll
+C:\Users\hp\Desktop\Iron Ninja\bin\MCD\Debug\net5.0\Iron Ninja.pdb
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.AssemblyInfo.cs
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.dll
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\ref\Iron Ninja.dll
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.pdb
+C:\Users\hp\Desktop\Iron Ninja\obj\MCD\Debug\net5.0\Iron Ninja.genruntimeconfig.cache

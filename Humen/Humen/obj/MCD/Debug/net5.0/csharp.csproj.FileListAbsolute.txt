@@ -1,0 +1,112 @@
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\csharp\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\csharp\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Hello_C#\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Hello_C#\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Collections Practice\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Collections Practice\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\BoxingUnboxing\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\BoxingUnboxing\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Basic 13\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Basic 13\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Puzzles\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Puzzles\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.exe
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.deps.json
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.runtimeconfig.json
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Humen\bin\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.AssemblyInfo.cs
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.dll
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\ref\csharp.dll
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.pdb
+C:\Users\hp\Desktop\Humen\obj\MCD\Debug\net5.0\csharp.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+﻿@model Survey
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css" />
+    <title>Survey</title>
+</head>
+
+<body style="align-text: center;">
+<form action="/survey" method="post">
+  <label asp-for="Name" >Your name:</label><br>
+  <input type="text"  asp-for="Name"><span asp-validation-for="Name"></span>
+<br>
+  <label >Dojo Location :</label> <span asp-validation-for="Locations"></span> <br>
+    <select  asp-for="Locations">
+          <option value="riyadh">riyadh</option>
+          <option value="jeddah">jeddah</option>
+        </select><br><br>
+  <label >Languages :</label><span asp-validation-for="Languages"></span><br>
+  <select asp-for="Languages" >
+          <option value="Python">Python</option>
+          <option value="JavaScript">JavaScript</option>
+          <option value="C#">C#</option>
+          <option value="Java">Java</option>
+        </select> <br><br>
+          <label asp-for="Comments"> Comment (Optional) :</label><span asp-validation-for="Comments"></span> <br>
+<textarea asp-for="Comments"> </textarea> <br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+</body>
+
+</html>

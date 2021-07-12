@@ -1,0 +1,44 @@
+﻿@model Survey
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+  <title>Survey</title>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+  <script src='main.js'></script>
+</head>
+<body>
+  
+    <form  action="/survey" method="post">
+        <span asp-validation-for="Name" ></span>
+        <label asp-for="Name"></label><br>
+        <input type="text" asp-for="Name" placeholder="Enter Name"><br><br>
+
+        <span asp-validation-for="Locations" ></span><br>
+        <label asp-for="Locations"></label><br>
+        <select  asp-for="Locations"><
+          <option value="riyadh">Riyadh</option>
+          <option value="jeddah">Jeddah</option>
+        </select><br><br>
+        <span asp-validation-for="Languages"></span><br>
+        <label asp-for="Languages"></label><br>
+        <select asp-for="Languages" class="form-control">
+          <option value="Python">Python</option>
+          <option value="JavaScript">JavaScript</option>
+          <option value="C#">C#</option>
+          <option value="Java">Java</option>
+        </select><br><br>
+    
+        <span asp-validation-for="Comments" ></span><br>
+        <label asp-for="Comments">Comment:</label><br>
+        <textarea  asp-for="Comments" ></textarea><br><br>
+<br>
+      <button type="submit">Submit</button>
+
+    </form>
+  </div>
+</div>
+</body>
+</html>

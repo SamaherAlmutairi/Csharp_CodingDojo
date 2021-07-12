@@ -1,0 +1,36 @@
+@{
+ViewData["Title"] = "Home Page";
+}
+@model LR_.Models.Transaction
+<h1>Welcome, @ViewBag.User.FirstName @ViewBag.User.LastName!</h1>
+<a href="/Logout">Logout</a>
+<div >
+    <p>Current Balance: <p id="balance">@ViewBag.User.Balance</p></p>
+</div>
+<form asp-action="Transaction" asp-controller="Home" method='post' >
+    <div >
+        <span asp-validation-for="Amount"></span>
+        <label asp-for="Amount">Deposit/Withdrawal</label>
+        <input type="text" asp-for="Amount" >
+    </div>
+    <button type="submit" value='submit' >Submit</button>
+</form>
+    <div >
+        <table >
+            <thead>
+                <tr>
+                    <th >Amount</th>
+                    <th >Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var transaction in @ViewBag.User.Transactions)
+                {
+                <tr>
+                    <th scope="row">$@transaction.Amount</th>
+                    <td>@transaction.CreatedAt</td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
